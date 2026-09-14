@@ -64,25 +64,42 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
 
+<img width="673" height="342" alt="image" src="https://github.com/user-attachments/assets/91db0623-6692-41e6-84fd-182ca2f2e9ab" />
+
 
   **MODEL GRAPH:**
 
+<img width="587" height="360" alt="image" src="https://github.com/user-attachments/assets/904ec44c-d467-4e89-ac4f-f376e6bcbe89" />
+
+<img width="762" height="472" alt="image" src="https://github.com/user-attachments/assets/5d3dcaf1-aa29-4916-ac44-854a2d181861" />
+
 
   **TABULATION:**
- 
+
+ <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/be4a26f6-c748-42bc-a9b4-76a5c8656d9f" />
+
+<img width="707" height="802" alt="image" src="https://github.com/user-attachments/assets/e92edd12-d1b0-4a43-b362-919074ad57df" />
+
 
 **MODEL CALCULATION:**
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
 
+<img width="636" height="367" alt="image" src="https://github.com/user-attachments/assets/d1988549-af01-4e2e-a530-791c99bba9f2" />
+
 
   **MODEL GRAPH:**
+
+<img width="451" height="552" alt="image" src="https://github.com/user-attachments/assets/9bab7812-13cb-4238-aa06-66b4eb153cc6" />
 
 
   **TABULATION:**
 
- 
+ <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/e18198f3-b7bd-47ed-95f4-0f7918ddf25c" />
+
+<img width="478" height="800" alt="image" src="https://github.com/user-attachments/assets/183d7dbb-a79b-41a9-960b-d286cd1f2968" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -95,7 +112,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+
+  <img width="767" height="352" alt="image" src="https://github.com/user-attachments/assets/a1f5ae84-40fc-478a-8992-5d1fe0e5c5d5" />
+
+<img width="532" height="832" alt="image" src="https://github.com/user-attachments/assets/0bca474d-7bc1-4bb4-9c43-3d35046da08b" />
+
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
